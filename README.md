@@ -1,8 +1,6 @@
 <h1 align="center">Hey ✌️, I'm Aditya Madwal</h1>
 <h3 align="center">A Web Developer and an engineering undergrad.</h3>
 
-- 🔭 I’m currently working on [FriendsBook](https://github.com/Aditya-madwal/FriendsBook)
-
 - 👨‍💻 All of my projects are available at [https://adityamadwal.vercel.app/](https://adityamadwal.vercel.app/)
 
 - 📫 How to reach me **adityamadwal@gmail.com**
