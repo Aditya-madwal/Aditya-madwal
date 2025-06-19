@@ -1,7 +1,7 @@
 <h1 align="center">Hey ✌️, I'm Aditya Madwal</h1>
 <h3 align="center">A Web Developer and an engineering undergrad.</h3>
 
-- 👨‍💻 All of my projects are available at [https://adityamadwal.vercel.app/](https://adityamadwal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://adityamadwal.onrender.com/](https://adityamadwal.onrender.com/)
 
 - 📫 How to reach me **adityamadwal@gmail.com**
 
