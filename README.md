@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m currently working on mail-board "a smart inbox saas app for btter productivity"<br>i am currently learning data structures and algo<br>
+I'm a passionate full-stack developer with expertise in building scalable web applications. Currently pursuing Computer Science at K.I.E.T Group of Institutions with hands-on experience in Django, React, and modern web technologies.<br>
 
 
 ## 🌐 Socials:
