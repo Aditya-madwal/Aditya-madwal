@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Madwal</h1>
 <h3 align="center">Passionate about building scalable and user-friendly applications</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-madwal" alt="aditya-madwal" /></a> </p>
+
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://leetcode.com/u/AdityyaM/)
 
 - 🌱 I’m currently learning **Generative AI**
