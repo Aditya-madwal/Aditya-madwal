@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Madwal</h1>
 <h3 align="center">Passionate about building scalable and user-friendly applications</h3>
 
-- 🔭 I’m currently working on [Data Structures and Algorithms](https://leetcode.com/u/AdityyaM/)
+- 🔭 I’m currently working on [MeetingProject](https://github.com/Aditya-madwal/MeetingProject)
 
 - 🌱 I’m currently learning **Generative AI**
 
